@@ -1,0 +1,40 @@
+body {
+    background: #00BFB3;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #023436;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.introBox {
+  background: #00BFB3;
+  border: 3px solid white;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.search {
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+}
+
+.resultBox {
+    background: #00BFB3;
+    border: 3px solid white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
